@@ -9,6 +9,7 @@ header{
 	background-image: url(C:/Users/admin/Desktop/homework/homework7/img/123.jpg);
 	background-attachment: fixed;
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 h1{
 	color: #fdfeff;
